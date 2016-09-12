@@ -1,93 +1,106 @@
-AF;DZ;Algeria;Alžírsko;Алжир
-AF;AO;Angola;Angola;Ангола
-AF;BJ;Benin;Benin;Бенин
-AF;BW;Botswana;Botswana;Ботсвана
-AF;BF;Burkina Faso;Burkina Faso;Буркина-Фасо
-AF;BI;Burundi;Burundi;Бурунди
-AF;CM;Cameroon;Kamerun;Камерун
-AF;CV;Cape Verde;Kapverdy;Кабо-Верде
-AF;CF;Central African Republic;Středoafrická republika;Центральноафриканская Республика
-AF;TD;Chad;Čad;Чад
-AF;KM;Comoros;Komory;Коморы
-AF;CD;Congo-Kinshasa;Kongo–Kinshasa;Демократическая Республика Конго
-AF;CG;Congo Republic;Konžská republika;Республика Конго
-AF;DJ;Djibouti;Džibutsko;Джибути
-AF;EG;Egypt;Egypt;Египет
-AF;GQ;Equatorial Guinea;Rovníková Guinea;Экваториальная Гвинея
-AF;ER;Eritrea;Eritrea;Эритрея
-AF;ET;Ethiopia;Etiopie;Эфиопия
-AF;GA;Gabon;Gabon;Габон
-AF;GM;Gambia;Gambie;Гамбия
-AF;GH;Ghana;Ghana;Гана
-AF;GN;Guinea;Guinea;Гвинея
-AF;GW;Guinea-Bissau;Guinea-Bissau;Гвинея-Бисау
-AF;CI;Ivory Coast;Pobřeží slonoviny;Кот-д’Ивуар
-AF;KE;Kenya;Keňa;Кения
-AF;LS;Lesotho;Lesotho;Лесото
-AF;LR;Liberia;Libérie;Либерия
-AF;LY;Libya;Libye;Ливия
-AF;MG;Madagascar;Madagaskar;Мадагаскар
-AF;MW;Malawi;Malawi;Малави
-AF;ML;Mali;Mali;Мали
-AF;MR;Mauritania;Mauritánie;Мавритания
-AF;MU;Mauritius;Mauricius;Маврикий
-AF;MA;Morocco;Maroko;Марокко
-AF;MZ;Mozambique;Mosambik;Мозамбик
-AF;NA;Namibia;Namibie;Намибия
-AF;NE;Niger;Niger;Нигер
-AF;NG;Nigeria;Nigérie;Nigérie
-AF;RW;Rwanda;Rwanda;Руанда
-AF;ST;São Tomé and Príncipe;Svatý Tomáš a Princův ostrov;Сан-Томе и Принсипи
-
-AS;AF;Afghanistan;Afghánistán;Афганистан
-AS;AM;Armenia;Arménie;Армения
-AS;AZ;Azerbaijan;Ázerbájdžán;Азербайджан
-AS;BH;Bahrain;Bahrajn;Бахрейн
-AS;BD;Bangladesh;Bangladéš;Бангладеш
-AS;BT;Bhutan;Bhútán;Бутан
-AS;BN;Brunei;Brunej;Бруней
-AS;KH;Cambodia;Kambodža;Камбоджа
-AS;CN;China;Čína;Китай
-AS;GE;Georgia;Gruzie;Грузия
-AS;IN;India;Indie;Индия
-AS;ID;Indonesia;Indonésie;Индонезия
-AS;IR;Iran;Írán;Иран
-AS;IQ;Iraq;Irák;Ирак
-AS;IL;Israel;Izrael;Израиль
-AS;JP;Japan;Japonsko;Япония
-AS;JO;Jordan;Jordánsko;Иордания
-AS;KZ;Kazakhstan;Kazachstán;Казахстан
-AS;KP;North Korea;Severní Korea;Северная Корея
-AS;KR;South Korea;Jižní Korea;Южная Корея
-AS;KW;Kuwait;Kuvajt;Кувейт
-AS;KG;Kyrgyzstan;Kyrgyzstán;Киргизия
-AS;LA;Laos;Laos;Лаос
-AS;LB;Lebanon;Libanon;Ливан
-AS;MY;Malaysia;Malajsie;Малайзия
-AS;MV;Maldives;Maledivy;Мальдивы
-AS;MN;Mongolia;Mongolsko;Монголия
-AS;MM;Myanmar;Myanmar;Мьянма
-AS;NP;Nepal;Nepál;Непал
-AS;OM;Oman;Omán;Оман
-AS;PK;Pakistan;Pákistán;Пакистан
-AS;PH;Philippines;Filipíny;Филиппины
-AS;QA;Qatar;Katar;Катар
-AS;SA;Saudi Arabia;Saúdská Arábie;Саудовская Аравия
-AS;SG;Singapore;Singapur;Сингапур
-AS;LK;Sri Lanka;Srí Lanka;Шри-Ланка
-AS;SY;Syria;Sýrie;Сирия
-AS;TJ;Tajikistan;Tádžikistán;Таджикистан
-AS;TH;Thailand;Thajsko;Таиланд
-AS;TL;East Timor;Východní Timor;Восточный Тимор
-AS;TR;Turkey;Turecko;Турция
-AS;TM;Turkmenistan;Turkmenistán;Туркмения
-AS;AE;United Arab Emirates;Spojené arabské emiráty;Объединённые Арабские Эмираты
-AS;UZ;Uzbekistan;Uzbekistán;Узбекистан
-AS;VN;Vietnam;Vietnam;Вьетнам
-AS;YE;Yemen;Jemen;Йемен
-AS;PS;Palestine;Palestina;Палестина
-AS;TW;Taiwan;Tchaj-wan;Тайвань
-
+AF;DZ;-;Algeria;Alžírsko;Алжир
+AF;AO;-;Angola;Angola;Ангола
+AF;BJ;-;Benin;Benin;Бенин
+AF;BW;-;Botswana;Botswana;Ботсвана
+AF;BF;-;Burkina Faso;Burkina Faso;Буркина-Фасо
+AF;BI;-;Burundi;Burundi;Бурунди
+AF;CM;-;Cameroon;Kamerun;Камерун
+AF;CV;-;Cape Verde;Kapverdy;Кабо-Верде
+AF;CF;-;Central African Republic;Středoafrická republika;Центральноафриканская Республика
+AF;TD;-;Chad;Čad;Чад
+AF;KM;-;Comoros;Komory;Коморы
+AF;CD;-;Congo-Kinshasa;Kongo–Kinshasa;Демократическая Республика Конго
+AF;CG;-;Congo Republic;Konžská republika;Республика Конго
+AF;DJ;-;Djibouti;Džibutsko;Джибути
+AF;EG;-;Egypt;Egypt;Египет
+AF;GQ;-;Equatorial Guinea;Rovníková Guinea;Экваториальная Гвинея
+AF;ER;-;Eritrea;Eritrea;Эритрея
+AF;ET;-;Ethiopia;Etiopie;Эфиопия
+AF;GA;-;Gabon;Gabon;Габон
+AF;GM;-;Gambia;Gambie;Гамбия
+AF;GH;-;Ghana;Ghana;Гана
+AF;GN;-;Guinea;Guinea;Гвинея
+AF;GW;-;Guinea-Bissau;Guinea-Bissau;Гвинея-Бисау
+AF;CI;-;Ivory Coast;Pobřeží slonoviny;Кот-д’Ивуар
+AF;KE;-;Kenya;Keňa;Кения
+AF;LS;-;Lesotho;Lesotho;Лесото
+AF;LR;-;Liberia;Libérie;Либерия
+AF;LY;-;Libya;Libye;Ливия
+AF;MG;-;Madagascar;Madagaskar;Мадагаскар
+AF;MW;-;Malawi;Malawi;Малави
+AF;ML;-;Mali;Mali;Мали
+AF;MR;-;Mauritania;Mauritánie;Мавритания
+AF;MU;-;Mauritius;Mauricius;Маврикий
+AF;MA;-;Morocco;Maroko;Марокко
+AF;MZ;-;Mozambique;Mosambik;Мозамбик
+AF;NA;-;Namibia;Namibie;Намибия
+AF;NE;-;Niger;Niger;Нигер
+AF;NG;-;Nigeria;Nigérie;Nigérie
+AF;RW;-;Rwanda;Rwanda;Руанда
+AF;ST;-;São Tomé and Príncipe;Svatý Tomáš a Princův ostrov;Сан-Томе и Принсипи
+AF;SN;-;Senegal;Senegal;Сенегал
+AF:SC;-;Seychelles;Seychely;Сейшельские Острова
+AF;SL;-;Sierra Leone;Sierra Leone;Сьерра-Леоне
+AF;SO;-;Somalia;Somálsko;Сомали
+AF;ZA;-;South Africa;Jihoafrická republika;Южно-Африканская Республика
+AF;SS;-;South Sudan;Jižní Súdán;Южный Судан
+AF;SD;-;Sudan;Súdán;Судан
+AF;SZ;-;Swaziland;Svazijsko;Свазиленд
+AF;TZ;-;Tanzania;Tanzanie;Танзания
+AF;TG;-;Togo;Togo;Того
+AF;TN;-;Tunisia;Tunisko;Тунис
+AF;UG;-;Uganda;Uganda;Уганда
+AF;ZM;-;Zambia;Zambie;Замбия
+AF;ZW;-;Zimbabwe;Zimbabwe;Зимбабве
+AF;EH;-;Sahrawi Arab Democratic Republic;Saharská arabská demokratická republika;Сахарская Арабская Демократическая Республика
+AS;AF;-;Afghanistan;Afghánistán;Афганистан
+AS;AM;-;Armenia;Arménie;Армения
+AS,EU;AZ;-;Azerbaijan;Ázerbájdžán;Азербайджан
+AS;BH;-;Bahrain;Bahrajn;Бахрейн
+AS;BD;-;Bangladesh;Bangladéš;Бангладеш
+AS;BT;-;Bhutan;Bhútán;Бутан
+AS;BN;-;Brunei;Brunej;Бруней
+AS;KH;-;Cambodia;Kambodža;Камбоджа
+AS;CN;-;China;Čína;Китай
+AS,EU;GE;-;Georgia;Gruzie;Грузия
+AS;IN;-;India;Indie;Индия
+AS;ID;-;Indonesia;Indonésie;Индонезия
+AS;IR;-;Iran;Írán;Иран
+AS;IQ;-;Iraq;Irák;Ирак
+AS;IL;-;Israel;Izrael;Израиль
+AS;JP;-;Japan;Japonsko;Япония
+AS;JO;-;Jordan;Jordánsko;Иордания
+AS,EU;KZ;-;Kazakhstan;Kazachstán;Казахстан
+AS;KP;-;North Korea;Severní Korea;Северная Корея
+AS;KR;-;South Korea;Jižní Korea;Южная Корея
+AS;KW;-;Kuwait;Kuvajt;Кувейт
+AS;KG;-;Kyrgyzstan;Kyrgyzstán;Киргизия
+AS;LA;-;Laos;Laos;Лаос
+AS;LB;-;Lebanon;Libanon;Ливан
+AS;MY;-;Malaysia;Malajsie;Малайзия
+AS;MV;-;Maldives;Maledivy;Мальдивы
+AS;MN;-;Mongolia;Mongolsko;Монголия
+AS;MM;-;Myanmar;Myanmar;Мьянма
+AS;NP;-;Nepal;Nepál;Непал
+AS;OM;-;Oman;Omán;Оман
+AS;PK;-;Pakistan;Pákistán;Пакистан
+AS;PH;-;Philippines;Filipíny;Филиппины
+AS;QA;-;Qatar;Katar;Катар
+AS;SA;-;Saudi Arabia;Saúdská Arábie;Саудовская Аравия
+AS;SG;-;Singapore;Singapur;Сингапур
+AS;LK;-;Sri Lanka;Srí Lanka;Шри-Ланка
+AS;SY;-;Syria;Sýrie;Сирия
+AS;TJ;-;Tajikistan;Tádžikistán;Таджикистан
+AS;TH;-;Thailand;Thajsko;Таиланд
+AS;TL;-;East Timor;Východní Timor;Восточный Тимор
+AS,EU;TR;-;Turkey;Turecko;Турция
+AS;TM;-;Turkmenistan;Turkmenistán;Туркмения
+AS;AE;-;United Arab Emirates;Spojené arabské emiráty;Объединённые Арабские Эмираты
+AS;UZ;-;Uzbekistan;Uzbekistán;Узбекистан
+AS;VN;-;Vietnam;Vietnam;Вьетнам
+AS;YE;-;Yemen;Jemen;Йемен
+AS;PS;-;Palestine;Palestina;Палестина
+AS;TW;-;Taiwan;Tchaj-wan;Тайвань
 EU;AD;3041565;Andorra;Andorra;Андорра
 EU;AL;783754;Albania;Albánie;Албания
 EU;AT;2782113;Austria;Rakousko;Австрия
@@ -96,7 +109,7 @@ EU;BE;2802361;Belgium;Belgie;Бельгия
 EU;BG;732800;Bulgaria;Bulharsko;Болгария
 EU;BY;630336;Belarus;Bělorusko;Белоруссия
 EU;CH;2658434;Switzerland;Švýcarsko;Швейцария
-AS,EU;CY;146669;Cyprus;Kypr;Кипр
+EU;CY;146669;Cyprus;Kypr;Кипр
 EU;CZ;3077311;Czech Republic;Česko;Чехия
 EU;DE;2921044;Germany;Německo;Германия
 EU;DK;2623032;Denmark;Dánsko;Дания
@@ -134,3 +147,52 @@ EU;SK;3057568;Slovakia;Slovensko;Словакия
 EU;SM;3168068;San Marino;San Marino;Сан-Марино
 EU;UA;690791;Ukraine;Ukrajina;Украина
 EU;VA;3164670;Vatican;Vatikán;Ватикан
+NA;AG;-;Antigua and Barbuda;Antigua a Barbuda;Антигуа и Барбуда
+NA;BS;-;Bahamas;Bahamy;Багамские Острова
+NA;BB;-;Barbados;Barbados;Барбадос
+NA;BZ;-;Belize;Belize;Белиз
+NA;CA;-;Canada;Kanada;Канада
+NA;CR;-;Costa Rica;Kostarika;Коста-Рика
+NA;CU;-;Cuba;Kuba;Куба
+NA;DM;-;Dominica;Dominika;Доминика
+NA;DO;-;Dominican Republic;Dominikánská republika;Доминиканская Республика
+NA;SV;-;El Salvador;Salvador;Сальвадор
+NA;GD;-;Grenada;Grenada;Гренада
+NA;GT;-;Guatemala;Guatemala;Гватемала
+NA;HT;-;Haiti;Haiti;Гаити
+NA;HN;-;Honduras;Honduras;Гондурас
+NA;JM;-;Jamaica;Jamajka;Ямайка
+NA;MX;-;Mexico;Mexiko;Мексика
+NA;NI;-;Nicaragua;Nikaragua;Никарагуа
+NA;PA;-;Panama;Panama;Панама
+NA;KM;-;Saint Kitts and Nevis;Svatý Kryštof a Nevis;Сент-Китс и Невис
+NA;LC;-;Saint Lucia;Svatá Lucie;Сент-Люсия
+NA;VC;-;Saint Vincent and the Grenadines;Svatý Vincenc a Grenadiny;Сент-Винсент и Гренадины
+NA;TT;-;Trinidad and Tobago;Trinidad a Tobago;Тринидад и Тобаго
+NA;US;-;United States;Spojené státy americké;Соединённые Штаты Америки
+OC;AU;-;Australia;Austrálie;Австралия
+OC;FM;-;Federated States of Micronesia;Federativní státy Mikronésie;Федеративные Штаты Микронезии
+OC;FJ;-;Fiji;Fidži;Фиджи
+OC;KI;-;Kiribati;Kiribati;Кирибати
+OC;MH;-;Marshall Islands;Marshallovy ostrovy;Маршалловы Острова
+OC;NR;-;Nauru;Nauru;Науру
+OC;NZ;-;New Zealand;Nový Zéland;Новая Зеландия
+OC;PW;-;Palau;Palau;Палау
+OC;PG;-;Papua New Guinea;Papua-Nová Guinea;Папуа — Новая Гвинея
+OC;WS;-;Samoa;Samoa;Самоа
+OC;SB;-;Solomon Islands;Šalamounovy ostrovy;Соломоновы Острова
+OC;TO;-;Tonga;Tonga;Тонга
+OC;TV;-;Tuvalu;Tuvalu;Тувалу
+OC;VU;-;Vanuatu;Vanuatu;Вануату
+SO;AR;-;Argentina;Argentina;Аргентина
+SO;BO;-;Bolivia;Bolívie;Боливия
+SO;BR;-;Brazil;Brazílie;Бразилия
+SO;CL;-;Chile;Chile;Чили
+SO;CO;-;Colombia;Kolumbie;Колумбия
+SO;EC;-;Ecuador;Ekvádor;Эквадор
+SO;GY;-;Guyana;Guyana;Гайана
+SO;PY;-;Paraguay;Paraguay;Парагвай
+SO;PE;-;Peru;Peru;Перу
+SO;SR;-;Suriname;Surinam;Суринам
+SO;UY;-;Uruguay;Uruguay;Уругвай
+SO;VE;-;Venezuela;Venezuela;Венесуэла

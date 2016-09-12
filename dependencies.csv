@@ -1,3 +1,39 @@
+AF;TF;FR;French Southern and Antarctic Lands;Francouzská jižní a antarktická území;Французские Южные и Антарктические территории
+AF;SH;UK;Saint Helena;Svatá Helena;Остров Святой Елены
+AF;AC;UK;Ascension;Ascension;Остров Вознесения
+AF;XT;UK;Tristan da Cunha;Tristan da Cunha;Тристан-да-Кунья
+AF;XC;ES;Canary Islands;Kanárské ostrovy;Канарские острова
+AF;CE;ES;Ceuta;Ceuta;Сеута
+AF;XM;PT;Madeira;Madeira;Мадейра
+AF;YT;FR;Mayotte;Mayotte;Майотта
+AF;XL;ES;Melilla;Melilla;Мелилья
+AF;XP;ES;Plazas de soberanía;Španělské severoafrické državy;Острова Алусемас и Чафаринас
+AF;RE;FR;Réunion;Réunion;Реюньон
+AF;XE;IT;Pelagie Islands;Pelagické ostrovy;Пелагские острова
+
+AS;XA;UK;Akrotiri and Dhekelia;Akrotiri a Dhekelia;Акротири и Декелия
+AS;IO;UK;British Indian Ocean Territory;Britské indickooceánské území;Британская Территория в Индийском Океане
+AS;CX;AU;Christmas Island;Vánoční ostrov;Остров Рождества
+AS;CC;AU;Cocos Islands;Kokosové ostrovy;Кокосовые острова
+AS;HK;CN;Hong Kong;Hongkong;Гонконг
+AS;MO;CN;Macau;Macao;Макао
+
+AQ;XA;AR;Argentine Antarctica;Argentinská Antarktida;Аргентинская Антарктика
+AQ;XU;AU;Australian Antarctic Territory;Australské antarktické území;Австралийская антарктическая территория
+AQ;XC;CL;Chilean Antarctic Territory;Chilské antarktické území;Чилийская антарктическая территория
+AQ;TF;FR;Adélie Land;Adélina země;Земля Адели
+AQ;AQ;NZ;Ross Dependency;Rossova dependence;Зависимая территория Росса
+AQ;XQ;NO;Queen Maud Land;Země královny Maud;Земля Королевы Мод
+AQ;XP;NO;Peter I Island;Ostrov Petra I.;Остров Петра I
+AQ;AB;UK;British Antarctic Territory;Britské antarktické území;Британская антарктическая территория
+AQ;BV;NO;Bouvet Island;Bouvetův ostrov;Остров Буве
+AQ;HM;AU;Heard Island;Heardův ostrov;Остров Херд
+AQ;HM;AU;McDonald Islands;McDonaldovy ostrovy;Острова Макдональд
+AQ;XE;ZA;Prince Edward Islands;Ostrovy prince Edwarda;Принс-Эдуард
+AQ;GS;UK;South Georgia;Jižní Georgie;Южная Георгия
+AQ;GS;UK;South Sandwich Islands;Jižní Sandwichovy ostrovy;Южные Сандвичевы Острова
+AQ;XB;-;Marie Byrd Land;Země Marie Byrdové;Земля Мэри Бэрд
+
 EU;AX;FI;661882;Åland Islands;Ålandy;Аландские острова
 EU;FO;DK;2622320;Faroe Islands;Faerské ostrovy;Фарерские острова
 EU;GG;UK;3042362;Guernsey;Guernsey;Гернси
@@ -6,10 +42,3 @@ EU;IM;UK;3042225;Isle of Man;Ostrov Man;Остров Мэн
 EU;JE;UK;3042142;Jersey;Jersey;Джерси
 EU;SJ;NO;7521757;Svalbard;Špicberky;Шпицберген
 EU;XJ;NO;3041964;Jan Mayen;Jan Mayen;Ян-Майен
-
-AS;XA;UK;Akrotiri and Dhekelia;Akrotiri a Dhekelia;Акротири и Декелия
-AS;IO;UK;British Indian Ocean Territory;Britské indickooceánské území;Британская Территория в Индийском Океане
-AS;CX;AU;Christmas Island;Vánoční ostrov;Остров Рождества
-AS;CC;AU;Cocos Islands;Kokosové ostrovy;Кокосовые острова
-AS;HK;CN;Hong Kong;Hongkong;Гонконг
-AS;MO;CN;Macau;Macao;Макао
