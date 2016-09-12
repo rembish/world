@@ -1,4 +1,4 @@
-iso;geonames_id;woe_id;latitude;longitude;north;east;south;west;en;cs;ru
+iso;geoname_id;woe_id;latitude;longitude;north;east;south;west;en;cs;ru
 AF;6255146;24865670;2.07079;15.80048;37.56712;63.525379;-46.900452;-25.35874;Africa;Afrika;Африка
 AN;6255152;28289421;-81.5;0;-53.00774;180;-90;-180;Antarctica;Antarktida;Антарктида
 AS;6255147;24865671;99.8191;34.9697;19.6381;-12.5611;180;82.5005;Asia;Asie;Азия

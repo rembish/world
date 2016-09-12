@@ -1,198 +1,199 @@
-AF;DZ;-;Algeria;Alžírsko;Алжир
-AF;AO;-;Angola;Angola;Ангола
-AF;BJ;-;Benin;Benin;Бенин
-AF;BW;-;Botswana;Botswana;Ботсвана
-AF;BF;-;Burkina Faso;Burkina Faso;Буркина-Фасо
-AF;BI;-;Burundi;Burundi;Бурунди
-AF;CM;-;Cameroon;Kamerun;Камерун
-AF;CV;-;Cape Verde;Kapverdy;Кабо-Верде
-AF;CF;-;Central African Republic;Středoafrická republika;Центральноафриканская Республика
-AF;TD;-;Chad;Čad;Чад
-AF;KM;-;Comoros;Komory;Коморы
-AF;CD;-;Congo-Kinshasa;Kongo–Kinshasa;Демократическая Республика Конго
-AF;CG;-;Congo Republic;Konžská republika;Республика Конго
-AF;DJ;-;Djibouti;Džibutsko;Джибути
-AF;EG;-;Egypt;Egypt;Египет
-AF;GQ;-;Equatorial Guinea;Rovníková Guinea;Экваториальная Гвинея
-AF;ER;-;Eritrea;Eritrea;Эритрея
-AF;ET;-;Ethiopia;Etiopie;Эфиопия
-AF;GA;-;Gabon;Gabon;Габон
-AF;GM;-;Gambia;Gambie;Гамбия
-AF;GH;-;Ghana;Ghana;Гана
-AF;GN;-;Guinea;Guinea;Гвинея
-AF;GW;-;Guinea-Bissau;Guinea-Bissau;Гвинея-Бисау
-AF;CI;-;Ivory Coast;Pobřeží slonoviny;Кот-д’Ивуар
-AF;KE;-;Kenya;Keňa;Кения
-AF;LS;-;Lesotho;Lesotho;Лесото
-AF;LR;-;Liberia;Libérie;Либерия
-AF;LY;-;Libya;Libye;Ливия
-AF;MG;-;Madagascar;Madagaskar;Мадагаскар
-AF;MW;-;Malawi;Malawi;Малави
-AF;ML;-;Mali;Mali;Мали
-AF;MR;-;Mauritania;Mauritánie;Мавритания
-AF;MU;-;Mauritius;Mauricius;Маврикий
-AF;MA;-;Morocco;Maroko;Марокко
-AF;MZ;-;Mozambique;Mosambik;Мозамбик
-AF;NA;-;Namibia;Namibie;Намибия
-AF;NE;-;Niger;Niger;Нигер
-AF;NG;-;Nigeria;Nigérie;Nigérie
-AF;RW;-;Rwanda;Rwanda;Руанда
-AF;ST;-;São Tomé and Príncipe;Svatý Tomáš a Princův ostrov;Сан-Томе и Принсипи
-AF;SN;-;Senegal;Senegal;Сенегал
-AF:SC;-;Seychelles;Seychely;Сейшельские Острова
-AF;SL;-;Sierra Leone;Sierra Leone;Сьерра-Леоне
-AF;SO;-;Somalia;Somálsko;Сомали
-AF;ZA;-;South Africa;Jihoafrická republika;Южно-Африканская Республика
-AF;SS;-;South Sudan;Jižní Súdán;Южный Судан
-AF;SD;-;Sudan;Súdán;Судан
-AF;SZ;-;Swaziland;Svazijsko;Свазиленд
-AF;TZ;-;Tanzania;Tanzanie;Танзания
-AF;TG;-;Togo;Togo;Того
-AF;TN;-;Tunisia;Tunisko;Тунис
-AF;UG;-;Uganda;Uganda;Уганда
-AF;ZM;-;Zambia;Zambie;Замбия
-AF;ZW;-;Zimbabwe;Zimbabwe;Зимбабве
-AF;EH;-;Sahrawi Arab Democratic Republic;Saharská arabská demokratická republika;Сахарская Арабская Демократическая Республика
-AS;AF;-;Afghanistan;Afghánistán;Афганистан
-AS;AM;-;Armenia;Arménie;Армения
-AS,EU;AZ;-;Azerbaijan;Ázerbájdžán;Азербайджан
-AS;BH;-;Bahrain;Bahrajn;Бахрейн
-AS;BD;-;Bangladesh;Bangladéš;Бангладеш
-AS;BT;-;Bhutan;Bhútán;Бутан
-AS;BN;-;Brunei;Brunej;Бруней
-AS;KH;-;Cambodia;Kambodža;Камбоджа
-AS;CN;-;China;Čína;Китай
-AS,EU;GE;-;Georgia;Gruzie;Грузия
-AS;IN;-;India;Indie;Индия
-AS;ID;-;Indonesia;Indonésie;Индонезия
-AS;IR;-;Iran;Írán;Иран
-AS;IQ;-;Iraq;Irák;Ирак
-AS;IL;-;Israel;Izrael;Израиль
-AS;JP;-;Japan;Japonsko;Япония
-AS;JO;-;Jordan;Jordánsko;Иордания
-AS,EU;KZ;-;Kazakhstan;Kazachstán;Казахстан
-AS;KP;-;North Korea;Severní Korea;Северная Корея
-AS;KR;-;South Korea;Jižní Korea;Южная Корея
-AS;KW;-;Kuwait;Kuvajt;Кувейт
-AS;KG;-;Kyrgyzstan;Kyrgyzstán;Киргизия
-AS;LA;-;Laos;Laos;Лаос
-AS;LB;-;Lebanon;Libanon;Ливан
-AS;MY;-;Malaysia;Malajsie;Малайзия
-AS;MV;-;Maldives;Maledivy;Мальдивы
-AS;MN;-;Mongolia;Mongolsko;Монголия
-AS;MM;-;Myanmar;Myanmar;Мьянма
-AS;NP;-;Nepal;Nepál;Непал
-AS;OM;-;Oman;Omán;Оман
-AS;PK;-;Pakistan;Pákistán;Пакистан
-AS;PH;-;Philippines;Filipíny;Филиппины
-AS;QA;-;Qatar;Katar;Катар
-AS;SA;-;Saudi Arabia;Saúdská Arábie;Саудовская Аравия
-AS;SG;-;Singapore;Singapur;Сингапур
-AS;LK;-;Sri Lanka;Srí Lanka;Шри-Ланка
-AS;SY;-;Syria;Sýrie;Сирия
-AS;TJ;-;Tajikistan;Tádžikistán;Таджикистан
-AS;TH;-;Thailand;Thajsko;Таиланд
-AS;TL;-;East Timor;Východní Timor;Восточный Тимор
-AS,EU;TR;-;Turkey;Turecko;Турция
-AS;TM;-;Turkmenistan;Turkmenistán;Туркмения
-AS;AE;-;United Arab Emirates;Spojené arabské emiráty;Объединённые Арабские Эмираты
-AS;UZ;-;Uzbekistan;Uzbekistán;Узбекистан
-AS;VN;-;Vietnam;Vietnam;Вьетнам
-AS;YE;-;Yemen;Jemen;Йемен
-AS;PS;-;Palestine;Palestina;Палестина
-AS;TW;-;Taiwan;Tchaj-wan;Тайвань
-EU;AD;3041565;Andorra;Andorra;Андорра
-EU;AL;783754;Albania;Albánie;Албания
-EU;AT;2782113;Austria;Rakousko;Австрия
-EU;BA;3277605;Bosnia and Herzegovina;Bosna a Hercegovina;Босния и Герцеговина
-EU;BE;2802361;Belgium;Belgie;Бельгия
-EU;BG;732800;Bulgaria;Bulharsko;Болгария
-EU;BY;630336;Belarus;Bělorusko;Белоруссия
-EU;CH;2658434;Switzerland;Švýcarsko;Швейцария
-EU;CY;146669;Cyprus;Kypr;Кипр
-EU;CZ;3077311;Czech Republic;Česko;Чехия
-EU;DE;2921044;Germany;Německo;Германия
-EU;DK;2623032;Denmark;Dánsko;Дания
-EU;EE;453733;Estonia;Estonsko;Эстония
-EU;ES;2510769;Spain;Španělsko;Испания
-EU;FI;660013;Finland;Finsko;Финляндия
-EU;FR;3017382;France;Francie;Франция
-EU;UK;2635167;United Kingdom;Spojené království;Великобритания
-EU;GR;390903;Greece;Řecko;Греция
-EU;HR;3202326;Croatia;Chorvatsko;Хорватия
-EU;HU;719819;Hungary;Maďarsko;Венгрия
-EU;IE;2963597;Ireland;Irsko;Ирландия
-EU;IS;2629691;Iceland;Island;Исландия
-EU;IT;3175395;Italy;Itálie;Италия
-EU;XK;831053;Kosovo;Kosovo;Косово
-EU;LI;3042058;Liechtenstein;Lichtenštejnsko;Лихтенштейн
-EU;LT;597427;Lithuania;Litva;Литва
-EU;LU;2960313;Luxembourg;Lucembursko;Люксембург
-EU;LV;458258;Latvia;Lotyšsko;Латвия
-EU;MC;2993457;Monaco;Monako;Монако
-EU;MD;617790;Moldova;Moldavsko;Молдавия
-EU;ME;3194884;Montenegro;Černá Hora;Черногория
-EU;MK;718075;Macedonia;Makedonie;Македония
-EU;MT;2562770;Malta;Malta;Мальта
-EU;NL;2750405;Netherlands;Nizozemsko;Нидерланды
-EU;NO;3144096;Norway;Norsko;Норвегия
-EU;PL;798544;Poland;Polsko;Польша
-EU;PT;2264397;Portugal;Portugalsko;Португалия
-EU;RO;798549;Romania;Rumunsko;Румыния
-EU;RS;6290252;Serbia;Srbsko;Сербия
-AS,EU;RU;2017370;Russia;Rusko;Россия
-EU;SE;2661886;Sweden;Švédsko;Швеция
-EU;SI;3190538;Slovenia;Slovinsko;Словения
-EU;SK;3057568;Slovakia;Slovensko;Словакия
-EU;SM;3168068;San Marino;San Marino;Сан-Марино
-EU;UA;690791;Ukraine;Ukrajina;Украина
-EU;VA;3164670;Vatican;Vatikán;Ватикан
-NA;AG;-;Antigua and Barbuda;Antigua a Barbuda;Антигуа и Барбуда
-NA;BS;-;Bahamas;Bahamy;Багамские Острова
-NA;BB;-;Barbados;Barbados;Барбадос
-NA;BZ;-;Belize;Belize;Белиз
-NA;CA;-;Canada;Kanada;Канада
-NA;CR;-;Costa Rica;Kostarika;Коста-Рика
-NA;CU;-;Cuba;Kuba;Куба
-NA;DM;-;Dominica;Dominika;Доминика
-NA;DO;-;Dominican Republic;Dominikánská republika;Доминиканская Республика
-NA;SV;-;El Salvador;Salvador;Сальвадор
-NA;GD;-;Grenada;Grenada;Гренада
-NA;GT;-;Guatemala;Guatemala;Гватемала
-NA;HT;-;Haiti;Haiti;Гаити
-NA;HN;-;Honduras;Honduras;Гондурас
-NA;JM;-;Jamaica;Jamajka;Ямайка
-NA;MX;-;Mexico;Mexiko;Мексика
-NA;NI;-;Nicaragua;Nikaragua;Никарагуа
-NA;PA;-;Panama;Panama;Панама
-NA;KM;-;Saint Kitts and Nevis;Svatý Kryštof a Nevis;Сент-Китс и Невис
-NA;LC;-;Saint Lucia;Svatá Lucie;Сент-Люсия
-NA;VC;-;Saint Vincent and the Grenadines;Svatý Vincenc a Grenadiny;Сент-Винсент и Гренадины
-NA;TT;-;Trinidad and Tobago;Trinidad a Tobago;Тринидад и Тобаго
-NA;US;-;United States;Spojené státy americké;Соединённые Штаты Америки
-OC;AU;-;Australia;Austrálie;Австралия
-OC;FM;-;Federated States of Micronesia;Federativní státy Mikronésie;Федеративные Штаты Микронезии
-OC;FJ;-;Fiji;Fidži;Фиджи
-OC;KI;-;Kiribati;Kiribati;Кирибати
-OC;MH;-;Marshall Islands;Marshallovy ostrovy;Маршалловы Острова
-OC;NR;-;Nauru;Nauru;Науру
-OC;NZ;-;New Zealand;Nový Zéland;Новая Зеландия
-OC;PW;-;Palau;Palau;Палау
-OC;PG;-;Papua New Guinea;Papua-Nová Guinea;Папуа — Новая Гвинея
-OC;WS;-;Samoa;Samoa;Самоа
-OC;SB;-;Solomon Islands;Šalamounovy ostrovy;Соломоновы Острова
-OC;TO;-;Tonga;Tonga;Тонга
-OC;TV;-;Tuvalu;Tuvalu;Тувалу
-OC;VU;-;Vanuatu;Vanuatu;Вануату
-SO;AR;-;Argentina;Argentina;Аргентина
-SO;BO;-;Bolivia;Bolívie;Боливия
-SO;BR;-;Brazil;Brazílie;Бразилия
-SO;CL;-;Chile;Chile;Чили
-SO;CO;-;Colombia;Kolumbie;Колумбия
-SO;EC;-;Ecuador;Ekvádor;Эквадор
-SO;GY;-;Guyana;Guyana;Гайана
-SO;PY;-;Paraguay;Paraguay;Парагвай
-SO;PE;-;Peru;Peru;Перу
-SO;SR;-;Suriname;Surinam;Суринам
-SO;UY;-;Uruguay;Uruguay;Уругвай
-SO;VE;-;Venezuela;Venezuela;Венесуэла
+continents;iso2;geoname_id;latitude;longitude;north;east;south;west;en;cs;ru
+AF;DZ;2589581;28;3;37.093723;11.979548;18.960028;-8.673868;Algeria;Alžírsko;Алжир
+AF;AO;3351879;-12.5;18.5;-4.376826;24.082119;-18.042076;11.679219;Angola;Angola;Ангола
+AF;BJ;2395170;9.5;2.25;12.418347;3.851701;6.225748;0.774575;Benin;Benin;Бенин
+AF;BW;933860;-22;24;-17.780813;29.360781;-26.907246;19.999535;Botswana;Botswana;Ботсвана
+AF;BF;2361809;12.5;-1.66667;15.082593;2.405395;9.401108;-5.518916;Burkina Faso;Burkina Faso;Буркина-Фасо
+AF;BI;433561;-3.5;30;-2.310123;30.847729;-4.465713;28.993061;Burundi;Burundi;Бурунди
+AF;CM;2233387;6;12.5;13.078056;16.192116;1.652548;8.494763;Cameroon;Kamerun;Камерун
+AF;CV;3374766;16;-24;17.197178;-22.669443;14.802214;-25.358747;Cape Verde;Kapverdy;Кабо-Верде
+AF;CF;239880;7;21;11.007569;27.463421;2.220514;14.420097;Central African Republic;Středoafrická republika;Центральноафриканская Республика
+AF;TD;2434508;15;19;23.450369;24.002661;7.441068;13.473475;Chad;Čad;Чад
+AF;KM;921929;-12.23333;44.44553;-11.362381;44.538223;-12.413821;43.21579;Comoros;Komory;Коморы
+AF;CD;203312;-2.5;23.5;5.386098;31.305912;-13.455675;12.204144;Congo-Kinshasa;Kongo–Kinshasa;Демократическая Республика Конго
+AF;CG;2260494;-1;15.5;3.703082;18.649839;-5.027223;11.205009;Congo Republic;Konžská republika;Республика Конго
+AF;DJ;223816;11.83333;42.5;12.706833;43.416973;10.909917;41.773472;Djibouti;Džibutsko;Джибути
+AF;EG;357994;27;30;31.667334;36.89833068847656;21.725389;24.698111;Egypt;Egypt;Египет
+AF;GQ;2309096;1.7;10.5;3.78598;11.335724;-1.459946;5.602367;Equatorial Guinea;Rovníková Guinea;Экваториальная Гвинея
+AF;ER;338010;15;39;18.003084;43.14864;12.359555;36.438778;Eritrea;Eritrea;Эритрея
+AF;ET;337996;9;39.5;14.89375;47.986179;3.402422;32.999939;Ethiopia;Etiopie;Эфиопия
+AF;GA;2400553;-1;11.75;2.322612;14.502347;-3.978806;8.695471;Gabon;Gabon;Габон
+AF;GM;2413451;13.5;-15.5;13.826571;-13.797793;13.064252;-16.825079;Gambia;Gambie;Гамбия
+AF;GH;2300660;8.1;-1.2;11.173301;1.191781;4.736723;-3.25542;Ghana;Ghana;Гана
+AF;GN;2420477;10.83333;-10.66667;12.67622;-7.641071;7.193553;-15.086256;Guinea;Guinea;Гвинея
+AF;GW;2372248;12;-15;12.680789;-13.636522;10.85997;-16.717535;Guinea-Bissau;Guinea-Bissau;Гвинея-Бисау
+AF;CI;2287781;8;-5.5;10.736642;-2.494897;4.357067;-8.599302;Ivory Coast;Pobřeží slonoviny;Кот-д’Ивуар
+AF;KE;192950;1;38;5.019938;41.899078;-4.678047;33.908859;Kenya;Keňa;Кения
+AF;LS;932692;-29.5;28.25;-28.572058;29.465761;-30.668964;27.029068;Lesotho;Lesotho;Лесото
+AF;LR;2275384;6.5;-9.5;8.551791;-7.365113;4.353057;-11.492083;Liberia;Libérie;Либерия
+AF;LY;2215636;28;17;33.168999;25.150612;19.508045;9.38702;Libya;Libye;Ливия
+AF;MG;1062947;-20;47;-11.549225;50.48378;-25.608952;43.19138;Madagascar;Madagaskar;Мадагаскар
+AF;MW;927384;-13.5;34;-9.367541;35.916821;-17.125;32.67395;Malawi;Malawi;Малави
+AF;ML;2453866;18;-2;25.000002;4.244968;10.159513;-12.242614;Mali;Mali;Мали
+AF;MR;2378080;20.25;-10.5;27.298073;-4.827674;14.715547;-17.066521;Mauritania;Mauritánie;Мавритания
+AF;MU;934292;-20.3;57.58333;-10.319255;63.500179;-20.525717;56.512718;Mauritius;Mauricius;Маврикий
+AF;MA;2542007;32;-6;35.9224966985384;-0.991750000000025;27.662115;-13.168586;Morocco;Maroko;Марокко
+AF;MZ;1036973;-18.25;35;-10.471883;40.844471;-26.868685;30.217319;Mozambique;Mosambik;Мозамбик
+AF;NA;3355338;-22;17;-16.959894;25.256701;-28.97143;11.71563;Namibia;Namibie;Намибия
+AF;NE;2440476;18;9;23.525026;15.995643;11.696975;0.16625;Niger;Niger;Нигер
+AF;NG;2328926;10;8;13.892007;14.680073;4.277144;2.668432;Nigeria;Nigérie;Nigérie
+AF;RW;49518;-2;30;-1.053481;30.895958;-2.840679;28.856794;Rwanda;Rwanda;Руанда
+AF;ST;2410758;1;7;1.701323;7.466374;-0.014004;6.47017;São Tomé and Príncipe;Svatý Tomáš a Princův ostrov;Сан-Томе и Принсипи
+AF;SN;2245662;14.5;-14.25;16.691633;-11.355887;12.307275;-17.535236;Senegal;Senegal;Сенегал
+AF;SC;241170;-4.58333;55.66667;-3.711519;56.29770287937299;-10.193706;46.199203;Seychelles;Seychely;Сейшельские Острова
+AF;SL;2403846;8.5;-11.5;10;-10.284238;6.928689;-13.307631;Sierra Leone;Sierra Leone;Сьерра-Леоне
+AF;SO;51537;6;48;11.979166;51.412636;-1.674868;40.986595;Somalia;Somálsko;Сомали
+AF;ZA;953987;-29;24;-22.126612;38.000465;-46.978931;16.458021;South Africa;Jihoafrická republika;Южно-Африканская Республика
+AF;SS;7909807;7.5;30;12.219148635864258;35.9405517578125;3.493394374847412;24.140274047851562;South Sudan;Jižní Súdán;Южный Судан
+AF;SD;366755;16;30;22.913195;38.60749816894531;8.684720993041992;21.827774047851562;Sudan;Súdán;Судан
+AF;SZ;934841;-26.5;31.5;-25.719648;32.13726;-27.317101;30.794107;Swaziland;Svazijsko;Свазиленд
+AF;TZ;149590;-6;35;-0.990736;40.443222;-11.745696;29.327168;Tanzania;Tanzanie;Танзания
+AF;TG;2363686;8.66667;1.08333;11.138977;1.806693;6.104417;-0.147324;Togo;Togo;Того
+AF;TN;2464461;34;9;37.543915;11.598278;30.240417;7.524833;Tunisia;Tunisko;Тунис
+AF;UG;226074;1.25;32.5;4.214427;35.036049;-1.48405;29.573252;Uganda;Uganda;Уганда
+AF;ZM;895949;-14.33333;28.5;-8.22436;33.705704;-18.079473;21.999371;Zambia;Zambie;Замбия
+AF;ZW;878675;-19;29.75;-15.608835;33.056305;-22.417738;25.237028;Zimbabwe;Zimbabwe;Зимбабве
+AF;EH;2461445;24.49215;-12.65625;27.669674;-8.670276;20.774158;-17.103182;Sahrawi Arab Democratic Republic;Saharská arabská demokratická republika;Сахарская Арабская Демократическая Республика
+AS;AF;1149361;33;66;38.483418;74.879448;29.377472;60.478443;Afghanistan;Afghánistán;Афганистан
+AS;AM;174982;40.25;45;41.301834;46.772435045159995;38.830528;43.44978;Armenia;Arménie;Армения
+AS,EU;AZ;587116;40.5;47.5;41.90564;50.607834;38.38915252685547;44.774113;Azerbaijan;Ázerbájdžán;Азербайджан
+AS;BH;290291;26.03333;50.55;26.282583;50.664471;25.796862;50.38586;Bahrain;Bahrajn;Бахрейн
+AS;BD;1210997;24;90;26.631945;92.673668;20.585251;88.028336;Bangladesh;Bangladéš;Бангладеш
+AS;BT;1252634;27.5;90.5;28.323778;92.125191;26.70764;88.75972;Bhutan;Bhútán;Бутан
+AS;BN;1820814;4.5;114.66667;5.047167;115.359444;4.003083;114.071442;Brunei;Brunej;Бруней
+AS;KH;1831722;13;105;14.686417;107.627724;9.28325;102.339996;Cambodia;Kambodža;Камбоджа
+AS;CN;1814991;35;105;53.56086;134.773911;10.175472;73.557693;China;Čína;Китай
+AS,EU;GE;614540;41.99998;43.4999;43.586498;46.725971;41.053196;40.010139;Georgia;Gruzie;Грузия
+AS;IN;1269750;22;79;35.504223;97.403305;6.747139;68.162834;India;Indie;Индия
+AS;ID;1643084;-5;120;5.904417;141.021805;-11.004861;95.009331;Indonesia;Indonésie;Индонезия
+AS;IR;130758;32;53;39.777222;63.317471;25.064083;44.047279;Iran;Írán;Иран
+AS;IQ;99237;33;44;37.378029;48.575916;29.069445;38.795887;Iraq;Irák;Ирак
+AS;IL;294640;31.5;34.75;33.340137;35.876804;29.496639;34.270278754419145;Israel;Izrael;Израиль
+AS;JP;1861060;35.68536;139.75309;45.52314;153.985229;24.036472;122.93853;Japan;Japonsko;Япония
+AS;JO;248816;31;36;33.367668;39.301167;29.185888;34.959999;Jordan;Jordánsko;Иордания
+AS,EU;KZ;1522867;48;68;55.451195;87.312668;40.936333;46.491859;Kazakhstan;Kazachstán;Казахстан
+AS;KP;1873107;40;127;43.006054;130.674866;37.597305;124.188637;North Korea;Severní Korea;Северная Корея
+AS;KR;1835841;36.5;127.75;39.008915;129.584671;33.10611;125.086586;South Korea;Jižní Korea;Южная Корея
+AS;KW;285570;29.5;47.75;30.095945;48.431473;28.524611;46.555557;Kuwait;Kuvajt;Кувейт
+AS;KG;1527747;41.5;75;43.238224;80.283165;39.172832;69.276611;Kyrgyzstan;Kyrgyzstán;Киргизия
+AS;LA;1655842;18;105;22.500389;107.697029;13.910027;100.093056;Laos;Laos;Лаос
+AS;LB;272103;33.83333;35.83333;34.691418;36.639194;33.05386;35.114277;Lebanon;Libanon;Ливан
+AS;MY;1733045;2.5;112.5;9.32375;119.267502;0.855222;98.935028;Malaysia;Malajsie;Малайзия
+AS;MV;1282028;3.2;73;7.091587495414767;73.706169;-0.692694;72.683891;Maldives;Maledivy;Мальдивы
+AS;MN;2029969;46;105;52.154251;119.924309;41.567638;87.749664;Mongolia;Mongolsko;Монголия
+AS;MM;1327865;21;96;28.543249;101.176781;9.600361;92.189278;Myanmar;Myanmar;Мьянма
+AS;NP;1282988;28;84;30.43339;88.199333;26.356722;80.056274;Nepal;Nepál;Непал
+AS;OM;286963;21;57;30.451916;59.836582;16.64575;49.238472;Oman;Omán;Оман
+AS;PK;1168579;30;70;37.097;77.840919;23.694695;60.878613;Pakistan;Pákistán;Пакистан
+AS;PH;1694008;13;122;21.120611;126.601524;4.613444;115.766304;Philippines;Filipíny;Филиппины
+AS;QA;289688;25.5;51.25;26.177584;52.427582;24.482944;50.744251;Qatar;Katar;Катар
+AS;SA;102358;25;45;32.158333;55.666584;15.61425;30.793167;Saudi Arabia;Saúdská Arábie;Саудовская Аравия
+AS;SG;1880251;1.36667;103.8;1.471278;104.090057;1.164028;103.638275;Singapore;Singapur;Сингапур
+AS;LK;1227603;7.75;80.75;9.831361;81.881279;5.916833;79.652916;Sri Lanka;Srí Lanka;Шри-Ланка
+AS;SY;163843;35;38;37.319138;42.385029;32.310665;35.727222;Syria;Sýrie;Сирия
+AS;TJ;1220409;39;71;41.042252;75.137222;36.674137;67.387138;Tajikistan;Tádžikistán;Таджикистан
+AS;TH;1605651;15.5;101;20.463194;105.639389;5.61;97.345642;Thailand;Thajsko;Таиланд
+AS;TL;1966436;-8.83333;125.75;-8.135833740234375;127.30859375;-9.463626861572266;124.04609680175781;East Timor;Východní Timor;Восточный Тимор
+AS,EU;TR;298795;39;35;42.107613;44.834999;35.815418;25.668501;Turkey;Turecko;Турция
+AS;TM;1218197;39.75;59.66667;42.795555;66.684303;35.141083;52.441444;Turkmenistan;Turkmenistán;Туркмения
+AS;AE;290557;23.75;54.5;26.08415985107422;56.38166046142578;22.633329391479492;51.507637;United Arab Emirates;Spojené arabské emiráty;Объединённые Арабские Эмираты
+AS;UZ;1512440;41.66667;63.83333;45.575001;73.132278;37.184444;55.996639;Uzbekistan;Uzbekistán;Узбекистан
+AS;VN;1562822;16.16667;107.83333;23.388834;109.464638;8.40825;102.148224;Vietnam;Vietnam;Вьетнам
+AS;YE;69543;15.5;47.5;18.9999989031009;54.5305388163283;12.1110910264462;41.8160476797831;Yemen;Jemen;Йемен
+AS;PS;6254930;31.92157;35.20329;32.54638671875;35.5732955932617;31.216541290283203;34.21665954589844;Palestine;Palestina;Палестина
+AS;TW;1668284;24;121;26.386;122.006739823315;20.6975;116.706665;Taiwan;Tchaj-wan;Тайвань
+EU;AD;3041565;42.55;1.58333;42.65604389629997;1.7865427778319827;42.42849259876837;1.4071867141112762;Andorra;Andorra;Андорра
+EU;AL;783754;41;20;42.665611;21.068472;39.648361;19.275612;Albania;Albánie;Албания
+EU;AT;2782113;47.33333;13.33333;49.0211627691393;17.1620685652599;46.3726520216244;9.53095237240833;Austria;Rakousko;Австрия
+EU;BA;3277605;44.25;17.83333;45.239193;19.622223;42.546112;15.718945;Bosnia and Herzegovina;Bosna a Hercegovina;Босния и Герцеговина
+EU;BE;2802361;50.75;4.5;51.505444;6.403861;49.49361;2.546944;Belgium;Belgie;Бельгия
+EU;BG;732800;42.66667;25.25;44.21764;28.612167;41.242084;22.371166;Bulgaria;Bulharsko;Болгария
+EU;BY;630336;53;28;57.66478;32.770805;51.256416;16.593027;Belarus;Bělorusko;Белоруссия
+EU;CH;2658434;47.00016;8.01427;47.805332;10.491472;45.825695;5.957472;Switzerland;Švýcarsko;Швейцария
+EU;CY;146669;35;33;35.701527;34.59791599999994;34.6332846722908;32.27308300000004;Cyprus;Kypr;Кипр
+EU;CZ;3077311;49.75;15;51.058887;18.860111;48.542915;12.096194;Czech Republic;Česko;Чехия
+EU;DE;2921044;51.5;10.5;55.055637;15.039889;47.275776;5.865639;Germany;Německo;Германия
+EU;DK;2623032;56;10;57.748417;15.158834;54.562389;8.075611;Denmark;Dánsko;Дания
+EU;EE;453733;59;26;59.687946;28.209972;57.516193;21.773445;Estonia;Estonsko;Эстония
+EU;ES;2510769;40;-4;43.79237956786995;4.32778473043961;27.6377894797159;-18.1612217229543;Spain;Španělsko;Испания
+EU;FI;660013;64;26;70.096054;31.580944;59.767582;20.556944;Finland;Finsko;Финляндия
+EU;FR;3017382;46;2;51.092804;9.561556;41.338779;-5.142222;France;Francie;Франция
+EU;UK;2635167;54.75844;-2.69531;60.845806;33.917495338622984;34.56411516824804;-8.650666;United Kingdom;Spojené království;Великобритания
+EU;GR;390903;39;22;41.7484999849641;29.642984894413;34.8020663391466;19.3736035624134;Greece;Řecko;Греция
+EU;HR;3202326;45.16667;15.5;46.53875;19.427389;40.042751;13.493222;Croatia;Chorvatsko;Хорватия
+EU;HU;719819;47;20;48.585667;22.906;45.74361;16.111889;Hungary;Maďarsko;Венгрия
+EU;IE;2963597;53;-8;55.436501;-6.002389;51.424557;-10.618111;Ireland;Irsko;Ирландия
+EU;IS;2629691;65;-18;66.563774;-13.495815;63.29610742313993;-24.546524;Iceland;Island;Исландия
+EU;IT;3175395;42.83333;12.83333;47.095196;18.513445;35.492195;6.614889;Italy;Itálie;Италия
+EU;XK;831053;42.58333;20.91667;43.2682495807952;21.80335088694943;41.856369601859925;19.977481504492914;Kosovo;Kosovo;Косово
+EU;LI;3042058;47.16667;9.53333;47.2706251386959;9.63564281136796;47.0484284123471;9.47167359782014;Liechtenstein;Lichtenštejnsko;Лихтенштейн
+EU;LT;597427;55.41667;24;56.446918;26.871944;53.901306;20.941528;Lithuania;Litva;Литва
+EU;LU;2960313;49.75;6.16667;50.184944;6.528472;49.446583;5.734556;Luxembourg;Lucembursko;Люксембург
+EU;LV;458258;57;25;58.082306;28.241167;55.668861;20.974277;Latvia;Lotyšsko;Латвия
+EU;MC;2993457;43.73141;7.41903;43.75196717037228;7.439939260482788;43.72472839869377;7.408962249755859;Monaco;Monako;Монако
+EU;MD;617790;47.25;28.58333;48.490166;30.135445;45.468887;26.618944;Moldova;Moldavsko;Молдавия
+EU;ME;3194884;42.75;19.25;43.570137;20.358833;41.850166;18.461306;Montenegro;Černá Hora;Черногория
+EU;MK;718075;41.66667;21.75;42.361805;23.038139;40.860195;20.464695;Macedonia;Makedonie;Македония
+EU;MT;2562770;35.91667;14.43333;36.0821530995456;14.5764915000002;35.786257100000114;14.1834251000001;Malta;Malta;Мальта
+EU;NL;2750405;52.25;5.75;53.555138;7.227944;50.753918;3.362556;Netherlands;Nizozemsko;Нидерланды
+EU;NO;3144096;62;10;79.99633;31.138195;57.966583;4.650167;Norway;Norsko;Норвегия
+EU;PL;798544;52;20;54.839138;24.150749;49.006363;14.123;Poland;Polsko;Польша
+EU;PT;2264397;39.6945;-8.13057;42.154311127408;-6.18915930748288;30.030283523608002;-31.2688154080396;Portugal;Portugalsko;Португалия
+EU;RO;798549;46;25;48.266945;29.691055;43.627304;20.269972;Romania;Rumunsko;Румыния
+EU;RS;6290252;44.81892;20.45998;46.18138885498047;23.00499725341797;42.232215881347656;18.817020416259766;Serbia;Srbsko;Сербия
+AS,EU;RU;2017370;60;100;81.857361;-169.002365;41.188862;19.638166;Russia;Rusko;Россия
+EU;SE;2661886;62;15;69.0625;24.163279;55.337112;10.986722;Sweden;Švédsko;Швеция
+EU;SI;3190538;46.08333;15;46.8766275518195;16.6106311807;45.421812998164;13.3753342064709;Slovenia;Slovinsko;Словения
+EU;SK;3057568;48.66667;19.5;49.603168;22.570444;47.728111;16.84775;Slovakia;Slovensko;Словакия
+EU;SM;3168068;43.9367;12.4463;43.99223730851663;12.51653186779788;43.8937092171425;12.403538978820734;San Marino;San Marino;Сан-Марино
+EU;UA;690791;49;32;52.369362;40.20739;44.390415;22.128889;Ukraine;Ukrajina;Украина
+EU;VA;3164670;41.90225;12.4533;41.90743830885576;12.45837546629481;41.90027960306854;12.44570678169205;Vatican;Vatikán;Ватикан
+NA;AG;3576396;17.05;-61.8;17.729387;-61.659084;16.927221;-62.352409;Antigua and Barbuda;Antigua a Barbuda;Антигуа и Барбуда
+NA;BS;3572887;25.04082;-77.37122;27.232027;-72.729446;20.916067;-80.499237;Bahamas;Bahamy;Багамские Острова
+NA;BB;3374084;13.16667;-59.53333;13.327257;-59.420376;13.039844;-59.648922;Barbados;Barbados;Барбадос
+NA;BZ;3582678;17.25;-88.75;18.496557;-87.468124;15.8893;-89.224815;Belize;Belize;Белиз
+NA;CA;6251999;60.10867;-113.64258;83.110626;-52.636291;41.67598;-141;Canada;Kanada;Канада
+NA;CR;3624060;10;-84;11.216819;-82.555992;5.499074;-87.09465;Costa Rica;Kostarika;Коста-Рика
+NA;CU;3562981;22;-79.5;23.283781;-74.131775;19.828083;-84.957428;Cuba;Kuba;Куба
+NA;DM;3575830;15.5;-61.33333;15.631809;-61.244152;15.20169;-61.484108;Dominica;Dominika;Доминика
+NA;DO;3508796;19;-70.66667;19.929859;-68.32;17.470091;-72.003487;Dominican Republic;Dominikánská republika;Доминиканская Республика
+NA;SV;3585968;13.83333;-88.91667;14.445067;-87.692162;13.148679;-90.128662;El Salvador;Salvador;Сальвадор
+NA;GD;3580239;12.11667;-61.66667;12.530003133495484;-61.37806295239261;11.986893;-61.802344;Grenada;Grenada;Гренада
+NA;GT;3595528;15.5;-90.25;17.81522;-88.223198;13.737302;-92.23629;Guatemala;Guatemala;Гватемала
+NA;HT;3723988;19;-72.41667;20.08782;-71.613358;18.021032;-74.478584;Haiti;Haiti;Гаити
+NA;HN;3608932;15;-86.5;17.423628;-83.155403;12.982411;-89.350792;Honduras;Honduras;Гондурас
+NA;JM;3489940;18.16667;-77.25;18.526976;-76.180321;17.703554;-78.366638;Jamaica;Jamajka;Ямайка
+NA;MX;3996063;23;-102;32.716759;-86.703392;14.532866;-118.453949;Mexico;Mexiko;Мексика
+NA;NI;3617476;13;-85;15.025909;-82.592072;10.707543;-87.690308;Nicaragua;Nikaragua;Никарагуа
+NA;PA;3703430;9;-80;9.644431;-77.17411;7.197906;-83.051445;Panama;Panama;Панама
+NA;KM;921929;-12.23333;44.44553;-11.362381;44.538223;-12.413821;43.21579;Saint Kitts and Nevis;Svatý Kryštof a Nevis;Сент-Китс и Невис
+NA;LC;3576468;13.88333;-60.96667;14.103245;-60.874203;13.704778;-61.07415;Saint Lucia;Svatá Lucie;Сент-Люсия
+NA;VC;3577815;13.08333;-61.2;13.377834;-61.11388;12.40671;-61.481525;Saint Vincent and the Grenadines;Svatý Vincenc a Grenadiny;Сент-Винсент и Гренадины
+NA;TT;3573591;11;-61;11.338342;-60.489552;10.036105;-61.923771;Trinidad and Tobago;Trinidad a Tobago;Тринидад и Тобаго
+NA;US;6252001;39.76;-98.5;71.390656;-66.954811;18.913685;172.454697;United States;Spojené státy americké;Соединённые Штаты Америки
+OC;AU;2077456;-25;135;-9.2325;172.061386;-54.778252;112.911057;Australia;Austrálie;Австралия
+OC;FM;2081918;6.924;158.162;10.022223;163.034882;5.259833;138.052826;Federated States of Micronesia;Federativní státy Mikronésie;Федеративные Штаты Микронезии
+OC;FJ;2205218;-18;178;-12.480111;-178.213242;-20.67597;176.879303;Fiji;Fidži;Фиджи
+OC;KI;4030945;1.421;172.984;4.71957;-150.208359;-11.446881150186856;169.522522;Kiribati;Kiribati;Кирибати
+OC;MH;2080185;7.113;171.236;14.655167;172.162003;4.574861;160.95256;Marshall Islands;Marshallovy ostrovy;Маршалловы Острова
+OC;NR;2110425;-0.517;166.933;-0.504306;166.945282;-0.552333;166.899033;Nauru;Nauru;Науру
+OC;NZ;2186224;-42;174;-29.241097;-175.836411;-52.607582;165.883774;New Zealand;Nový Zéland;Новая Зеландия
+OC;PW;1559582;7.503;134.621;8.092916;134.723724;3.001139;131.16922;Palau;Palau;Палау
+OC;PG;2088628;-6;147;-0.877889;159.477921;-11.657861;140.842865;Papua New Guinea;Papua-Nová Guinea;Папуа — Новая Гвинея
+OC;WS;4034894;-13.8;-172.13333;-13.432207;-171.40580635310363;-14.076515773032975;-172.798599;Samoa;Samoa;Самоа
+OC;SB;2103350;-8;159;-5.0785;168.843506;-12.291889;155.508606;Solomon Islands;Šalamounovy ostrovy;Соломоновы Острова
+OC;TO;4032283;-20;-175;-15.562988;-173.702484;-22.345716;-176.212631;Tonga;Tonga;Тонга
+OC;TV;2110297;-8.51719;179.14478;-5.641972;179.863281;-10.801169;176.064865;Tuvalu;Tuvalu;Тувалу
+OC;VU;2134431;-16;167;-13.073444;170.234772;-20.248945;166.524979;Vanuatu;Vanuatu;Вануату
+SO;AR;3865483;-34;-64;-21.781277;-53.591835;-55.061314;-73.58297;Argentina;Argentina;Аргентина
+SO;BO;3923057;-17;-65;-9.680567;-57.45809600000001;-22.896133;-69.640762;Bolivia;Bolívie;Боливия
+SO;BR;3469034;-10;-55;5.264877;-28.839052;-33.750706;-73.985535;Brazil;Brazílie;Бразилия
+SO;CL;3895114;-30;-71;-17.507553;-66.417557;-55.9893686959471;-109.455894;Chile;Chile;Чили
+SO;CO;3686110;4;-73.25;13.390292;-66.869835;-4.225869;-81.728111;Colombia;Kolumbie;Колумбия
+SO;EC;3658394;-1.25;-78.25;1.6872511972518232;-75.184586;-4.998823;-92.01291888956911;Ecuador;Ekvádor;Эквадор
+SO;GY;3378535;5;-59;8.557567;-56.480251;1.17508;-61.384762;Guyana;Guyana;Гайана
+SO;PY;3437598;-23.33333;-58;-19.294041;-54.259354;-27.608738;-62.647076;Paraguay;Paraguay;Парагвай
+SO;PE;3932488;-10;-75.25;-0.012977;-68.677986;-18.349728;-81.326744;Peru;Peru;Перу
+SO;SR;3382998;4;-56;6.004546;-53.977493;1.831145;-58.086563;Suriname;Surinam;Суринам
+SO;UY;3439705;-33;-56;-30.082224;-53.073933;-35.047943;-58.442722;Uruguay;Uruguay;Уругвай
+SO;VE;3625428;8;-66;12.201903;-59.80378;0.626311;-73.354073;Venezuela;Venezuela;Венесуэла
